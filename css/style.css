@@ -1,0 +1,37 @@
+html{
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+#nav-brand{
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.nav-link{
+  font-weight: bold;
+}
+
+.block{
+  margin-top: 20px;
+}
+
+#about-name{
+  margin-top: 15px;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.social-card{
+  margin-top: 10px;
+}
+
+#footer{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 15px;
+  background-color: #ffffff;
+}
