@@ -36,3 +36,11 @@ html{
   margin-bottom: 15px;
   background-color: #ffffff;
 }
+
+.social-card > .card {
+  margin: auto;
+}
+
+.row .social-card {
+  text-align: center;
+}
